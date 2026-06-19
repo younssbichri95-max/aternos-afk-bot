@@ -1,0 +1,2 @@
+# aternos-afk-bot
+By
