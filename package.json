@@ -1,0 +1,13 @@
+{
+  "name": "aternos-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "mineflayer": "^4.21.0",
+    "node-cron": "^3.0.3",
+    "express": "^4.19.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
